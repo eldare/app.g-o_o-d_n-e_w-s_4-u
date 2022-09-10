@@ -28,6 +28,13 @@ Colors:
 /******************************/
 /*     01. General Styles     */
 /******************************/
+
+.justCenter {
+	justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
 body,
 html {
     width: 100%;
@@ -751,6 +758,7 @@ input[type='checkbox'] {
 .header {
 	background: linear-gradient(to bottom right, rgba(72, 72, 212, 0), rgba(241, 104, 104, 0)), url('../images/header-background.jpg') center center no-repeat;
 	background-size: cover;
+	min-height: 90%;
 }
 
 .header .header-content {
