@@ -151,7 +151,7 @@ a.white {
 	border-radius: 2rem;
 	background-color: #00c9db;
 	color: #fff;
-	font: 700 0.75rem/0 "Montserrat", sans-serif;
+	font: 700 1.8rem/0 "Montserrat", sans-serif;
 	text-decoration: none;
 	transition: all 0.2s;
 }
@@ -169,8 +169,8 @@ a.white {
 	vertical-align: top;
 }
 
-.btn-solid-lg .fab.fa-google-play {
-	font-size: 1rem;
+.btn-solid-lg .fab.fa-apple {
+	font-size: 1.8rem;
 }
 
 .btn-outline-reg {
